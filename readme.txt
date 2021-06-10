@@ -5,3 +5,4 @@ hi there, add something Jun 10, 2021
 June 10 7:28AM changed something.
 June 7:41 change again
 test user name with "richard zhang"
+test user email show
